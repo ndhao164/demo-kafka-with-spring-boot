@@ -1,0 +1,87 @@
+{"properties": [
+  {
+    "name": "spring.kafka.producer.max-request-size",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.producer.max-request-size'"
+  },
+  {
+    "name": "spring.kafka.producer.value-deserializer",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.producer.value-deserializer'"
+  },
+  {
+    "name": "spring.kafka.producer.key-deserializer",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.producer.key-deserializer'"
+  },
+  {
+    "name": "spring.kafka.consumer.max-request-size",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.consumer.max-request-size'"
+  },
+  {
+    "name": "spring.kafka.server.fetch-message-max-bytes",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.server.fetch-message-max-bytes'"
+  },
+  {
+    "name": "spring.kafka.consumer.fetch-max-bytes",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.consumer.fetch-max-bytes'"
+  },
+  {
+    "name": "spring.kafka.server.fetch-max-bytes",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.server.fetch-max-bytes'"
+  },
+  {
+    "name": "spring.kafka.server.properties.message.max.bytes",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.server.properties.message.max.bytes'"
+  },
+  {
+    "name": "spring.kafka.consumer.value-serializer",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.consumer.value-serializer'"
+  },
+  {
+    "name": "spring.kafka.consumer.key-serializer",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.consumer.key-serializer'"
+  },
+  {
+    "name": "spring.kafka.broker.properties.message.max.bytes",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.broker.properties.message.max.bytes'"
+  },
+  {
+    "name": "spring.kafka.broker.properties.replica.fetch.max.bytes",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.broker.properties.replica.fetch.max.bytes'"
+  },
+  {
+    "name": "spring.kafka.broker.properties.max.request.size",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.broker.properties.max.request.size'"
+  },
+  {
+    "name": "spring.kafka.broker.properties.max.message.bytes",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.broker.properties.max.message.bytes'"
+  },
+  {
+    "name": "spring.kafka.server.properties.replica.fetch.max.bytes",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.server.properties.replica.fetch.max.bytes'"
+  },
+  {
+    "name": "spring.kafka.server.properties.fetch.message.max.bytes",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.server.properties.fetch.message.max.bytes'"
+  },
+  {
+    "name": "spring.kafka.broker.properties.fetch.message.max.bytes",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.broker.properties.fetch.message.max.bytes'"
+  }
+]}
